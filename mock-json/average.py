@@ -1,4 +1,7 @@
 import requests
+import time
+import generator
+time.sleep(2)
 average = 0
 header_length = 217
 no_of_files = 100

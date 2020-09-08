@@ -5,3 +5,4 @@ Mock server created with nodejs which serves a mock http post request and a pyth
 which calculates the average length of each response over 100 randomized responses
 
 result:  average response length = 29~36 mega bytes
+To run, start node server and then execute average.py with python3
